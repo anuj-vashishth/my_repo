@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+}
+nav ul {
+    height: 10vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+}
+nav ul li {
+    list-style: none;
+    padding: 0 2vw;
+    color: white;
+}
+
+nav ul li a {
+    /* color: white; */
+    text-decoration: none;
+}
+header{
+    background-color: black;
+}
+body{
+    background-color: antiquewhite;
+}
